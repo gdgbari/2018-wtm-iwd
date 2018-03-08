@@ -234,7 +234,7 @@ button:focus {
 .mu-hero-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.94;
+	opacity: 0.6;
 	width: 100%;
 }
 
@@ -250,7 +250,6 @@ button:focus {
 	font-family: 'Montserrat', sans-serif;
 	display: inline-block;
 	font-weight: 600;
-	background: #fff;
 	padding: 5px 20px;
 	margin-bottom: 30px;
 }
@@ -461,7 +460,7 @@ button:focus {
 .mu-video-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.85;
+	opacity: 0.6;
 	width: 100%;
 }
 
@@ -650,7 +649,7 @@ button:focus {
 	top: 0;
 	width: 400px;
 	padding: 15px;
-	text-align: left;
+	text-align: right;
 }
 
 .mu-event-timeline ul li:nth-child(2n) .mu-single-event {
