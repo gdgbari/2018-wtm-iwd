@@ -33,7 +33,12 @@ Version: 1.0
 
 body,
 html {
-	overflow-x:hidden;
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+    margin: 0;
+    padding: 0;
+}
+
 }
 
 body {
@@ -649,7 +654,7 @@ button:focus {
 	top: 0;
 	width: 400px;
 	padding: 15px;
-	text-align: right;
+	text-align: left;
 }
 
 .mu-event-timeline ul li:nth-child(2n) .mu-single-event {
